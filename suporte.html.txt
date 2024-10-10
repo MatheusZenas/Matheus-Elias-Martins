@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suporte Técnico | TechSolution</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>TechSolution</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Contato</a></li>
+                <li><a href="suporte.html">Suporte Técnico</a></li>
+                <li><a href="desenvolvimento.html">Desenvolvimento de Software</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="conteudo-informativo">
+            <h2>Suporte Técnico</h2>
+            <p>Na TechSolution, oferecemos suporte técnico de qualidade para resolver problemas técnicos e garantir o funcionamento eficiente dos seus sistemas. Nossos especialistas estão disponíveis para ajudar com:</p>
+            <ul>
+                <li>Manutenção de hardware e software</li>
+                <li>Diagnóstico e solução de problemas</li>
+                <li>Configuração de redes e servidores</li>
+                <li>Assistência remota</li>
+            </ul>
+            <p>Entre em contato conosco para saber mais sobre como podemos ajudá-lo a manter seus sistemas funcionando sem problemas.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 TechSolution. Todos os direitos reservados.</p>
+        <ul>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#">Instagram</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

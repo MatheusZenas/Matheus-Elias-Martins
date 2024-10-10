@@ -1,0 +1,98 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Estilo do formulário */
+.formulario-contato {
+    background-color: #e0f7fa;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.formulario-contato label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.formulario-contato input,
+.formulario-contato textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #00796b;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilos para Conteúdo 1 */
+.conteudo-informativo {
+    background-color: #fff3e0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+/* Estilos para Conteúdo 2 */
+.conteudo-adicional {
+    background-color: #e8f5e9;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}

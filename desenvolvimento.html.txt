@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desenvolvimento de Software | TechSolution</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>TechSolution</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Contato</a></li>
+                <li><a href="suporte.html">Suporte Técnico</a></li>
+                <li><a href="desenvolvimento.html">Desenvolvimento de Software</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="conteudo-adicional">
+            <h2>Desenvolvimento de Software</h2>
+            <p>Na TechSolution, criamos soluções personalizadas para atender às suas necessidades de software. Nossos serviços de desenvolvimento incluem:</p>
+            <ul>
+                <li>Desenvolvimento de aplicativos web e móveis</li>
+                <li>Soluções empresariais sob medida</li>
+                <li>Integração de sistemas</li>
+                <li>Automação de processos</li>
+            </ul>
+            <p>Temos uma equipe altamente qualificada para desenvolver sistemas robustos e escaláveis. Entre em contato para saber mais sobre nossos serviços de desenvolvimento.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 TechSolution. Todos os direitos reservados.</p>
+        <ul>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#">Instagram</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
